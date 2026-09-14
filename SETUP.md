@@ -1,11 +1,23 @@
-# GitHub Profile README — Mohamed Yasser / MOHAME-D-69
+# MOHAME-D-69 GitHub Profile
 
-1. Create a PUBLIC repository named exactly:
-   `MOHAME-D-69`
-2. Upload `README.md`.
-3. Upload the `assets` folder with `spider-tech-header.gif`.
-4. Commit the changes.
-5. The repository README will automatically appear on your GitHub profile.
+## Upload
 
-This version uses an original Spider-Man-inspired red/blue web + tech identity,
-without using Spider-Man character artwork.
+Create/use the public repository named exactly:
+
+`MOHAME-D-69`
+
+Then upload only:
+
+`README.md`
+
+No local image or assets folder is required.
+
+The README uses external SVG/image services for:
+- Animated typing
+- Red/blue Spider-inspired tech header
+- Skill icons
+- GitHub statistics
+
+## Important
+
+If you want to change the visual identity later, edit only `README.md`.
